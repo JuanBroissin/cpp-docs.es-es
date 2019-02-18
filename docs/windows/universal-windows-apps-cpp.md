@@ -18,7 +18,7 @@ Aplicaciones universales de Windows Platform (UWP) representan un conjunto de pr
 
 ## <a name="uwp-apps-that-use-cwinrt"></a>Las aplicaciones UWP que usan C++ / c++ / WinRT
 
-C++ / c++ / WinRT es una nueva, encabezado basada en la biblioteca proyección del lenguaje C++ para el tiempo de ejecución de Windows que usa completamente estándar de C++, a diferencia de C++ / c++ / implementación de CX. C++ / c++ / WinRT no usa una sintaxis no estándar o extensiones de lenguaje de Microsoft y aprovecha plenamente el compilador de C++ para crear la salida altamente optimizada. Para obtener más información, consulte [C++ / c++ / WinRT](/windows/uwp/cpp-and-winrt-apis). Para obtener una introducción a C++ / c++ / WinRT y una guía de inicio rápido de código, vea [Introducción a C++ / c++ / WinRT](/windows/uwp/cpp-and-winrt-apis/intro-to-using-cpp-with-winrt).
+C++ / c++ / WinRT es una nueva, encabezado basada en la biblioteca proyección del lenguaje C++ para el tiempo de ejecución de Windows que usa completamente estándar de C++, a diferencia de C++ / c++ / implementación de CX. C++ / c++ / WinRT no usa una sintaxis no estándar o extensiones de lenguaje de Microsoft y aprovecha plenamente el compilador de C++ para crear la salida altamente optimizada. Para obtener más información, consulte [C++ / c++ / WinRT](/windows/uwp/cpp-and-winrt-apis). Para obtener una introducción a C++ / c++ / WinRT y una guía de inicio rápido de código, vea [Introducción a C++ / c++ / WinRT](windows/uwp/cpp-and-winrt-apis/intro-to-using-cpp-with-winrt).
 
 ## <a name="uwp-apps-that-use-ccx"></a>Las aplicaciones UWP que usan C++ / c++ / CX
 
